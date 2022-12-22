@@ -1,0 +1,20 @@
+#ultasks li.done{
+    text-decoration: line-through;
+    color: darkgray;
+}
+.kk{
+    /* background-color: lightcoral; */
+    background-image: url("7.jfif");
+    background-size: 400vh 400vh;
+}
+
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 2px solid black;
+}
